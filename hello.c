@@ -12,6 +12,7 @@
 int main(int argc, char **argv) {
 
     printf("Bhabishya Neupane!\n");
+    printf("Economics and Mathematics\n");
 
     return 0;
 
