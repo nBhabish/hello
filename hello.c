@@ -13,7 +13,9 @@ int main(int argc, char **argv) {
 
     printf("Bhabishya Neupane!\n");
     printf("Economics and Mathematics\n");
-
+	printf("Sylas Brautigam\n");
+	printf("Computer Engineering\n");
+	
     return 0;
 
 }
